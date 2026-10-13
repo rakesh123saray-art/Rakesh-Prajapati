@@ -1,0 +1,6 @@
+{
+  "name": "Krishnam Hotel & Suites - Automated PMS & Billing",
+  "description": "Enterprise hotel management system with automated guest check-ins, interactive room matrix, and automated folio billing engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
